@@ -1,7 +1,8 @@
-1 get milk
-0 dog walking
-0 post office
-0 food
-0 children from the school
+0 get milk
 1 car wash
-1 bike ride
+0 call my wife
+1 buy some fruit
+1 meet-up 6pm
+0 dinner with John
+1 clean my code
+0 make something good
